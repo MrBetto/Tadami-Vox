@@ -17,7 +17,7 @@ android {
     namespace = "com.tadami.aurora"
 
     defaultConfig {
-        applicationId = "com.tadami.aurora"
+        applicationId = "com.mrbetto.tadamivox"
         versionCode = 219
 
         versionName = "0.63.2"
